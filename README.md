@@ -1,6 +1,6 @@
 Préambule
 -----------------------
-Cette version de cordova-plugin-app-preferences corrige l'imcompatibilité avec la version de Cordova 9.0 qui nécessite l'utilisation de la méthode require pour intégrer les dépendances au lieu de l'ancienne méthode.
+Cette version de cordova-plugin-app-preferences corrige l'incompatibilité avec la version de Cordova 9.0 qui nécessite l'utilisation de la nouvelle méthode require pour intégrer les dépendances au lieu de l'ancienne méthode.
 
 Application preferences plugin for Cordova 3+
 -----------------------
